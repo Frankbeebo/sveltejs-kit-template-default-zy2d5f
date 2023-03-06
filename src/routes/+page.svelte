@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+				to chuggys site<br />I have no idea what im doing
 	</h1>
 
 	<h2>
